@@ -16,39 +16,41 @@
   <br/>
   
   ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
+  ### Languages  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  
-  ### Framework
-  <!--Flask-->
+
+  ### Frameworks & Libraries   
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 
-  
-  ### ETC
-  <!--MySQL-->
+  ### Database      
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <!--PostgreSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <!--Git-->
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+  ### Tools  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
   
   <br/>
   <br/>
-  ## :office: Work Experience
-  ### Teraon
-  #### Backend Developer
   
-  ### LSware
-  #### Backend Developer
+  ## 🏢 Work Experience
+
+  ### Teraon | Backend Developer (2022)
+  - Python, Flask, MySQL 기반의 웹 개발
+  - 백오피스 시스템 개발 및 API 구현
+
+  ### LSware | Backend Developer (2024)
+  - Java, JSP, PostgreSQL 기반의 서버보안 솔루션 웹화 작업
+  - C언어 기반 에이전트를 웹 인터페이스로 시각화
 
 
   <br/>
   <br/>
+  
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSungSoo)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
