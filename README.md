@@ -1,3 +1,9 @@
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  
+</div>
 
 <div>
   <!--Body-->
@@ -32,22 +38,19 @@
   <br/>
   
   ## 🏢 Internship
+  
   #### Teraon | Backend Developer (2022 06 - 2022 09)
-  ##### - Python, Flask, MySQL 
-  ##### - MyBell Q&A 게시판 개발
 
   #### LSware | Backend Developer (2023 06 - 2022 09)
-  ##### - Java, JSP, PostgreSQL
-  ##### - 서버보안솔루션 도구(Web)개발
-  ##### - 솔루션 테스트서버 관리
+
 
 
   <br/>
   <br/>
   
 ## 📫 Contact
-- ✉️ Email: elcane2@naver.com  
-- 📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
+  ✉️ Email: elcane2@naver.com  
+  📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
   
 </div>
 
