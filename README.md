@@ -39,22 +39,22 @@
   
   ## 🏢 Work Experience
 
-  ### Teraon | Backend Developer (2022)
-  - Python, Flask, MySQL 기반의 웹 개발
-  - 백오피스 시스템 개발 및 API 구현
+  #### Teraon | Backend Developer (2022)
+  - Python, Flask, MySQL 
+  - Q&A 게시판 개
 
-  ### LSware | Backend Developer (2024)
-  - Java, JSP, PostgreSQL 기반의 서버보안 솔루션 웹화 작업
-  - C언어 기반 에이전트를 웹 인터페이스로 시각화
+  #### LSware | Backend Developer (2024)
+  - Java, JSP, PostgreSQL
+  - 서버보안솔루션 도구(Web)개발
+  - 제품 테스트서버 관리
 
 
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSungSoo)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSungSoo)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Contact
+- ✉️ Email: elcane2@naver.com  
+- 📝 Portfolio: [Notion 링크](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
   
 </div>
 
