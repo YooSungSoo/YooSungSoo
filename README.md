@@ -37,13 +37,12 @@
   <br/>
   <br/>
   
-  ## 🏢 Work Experience
-  ### Internship
+  ## 🏢 Internship
   #### Teraon | Backend Developer (2022 06 - 2022 09)
   ##### - Python, Flask, MySQL 
-  ##### - Q&A 게시판 개발
+  ##### - MyBell Q&A 게시판 개발
 
-  #### LSware | Backend Developer (2024)
+  #### LSware | Backend Developer (2023 06 - 2022 09)
   ##### - Java, JSP, PostgreSQL
   ##### - 서버보안솔루션 도구(Web)개발
   ##### - 솔루션 테스트서버 관리
