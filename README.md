@@ -38,15 +38,15 @@
   <br/>
   
   ## 🏢 Work Experience
-
-  #### Teraon | Backend Developer (2022)
-  - Python, Flask, MySQL 
-  - Q&A 게시판 개
+  ### Internship
+  #### Teraon | Backend Developer (2022 06 - 2022 09)
+  ##### - Python, Flask, MySQL 
+  ##### - Q&A 게시판 개발
 
   #### LSware | Backend Developer (2024)
-  - Java, JSP, PostgreSQL
-  - 서버보안솔루션 도구(Web)개발
-  - 제품 테스트서버 관리
+  ##### - Java, JSP, PostgreSQL
+  ##### - 서버보안솔루션 도구(Web)개발
+  ##### - 솔루션 테스트서버 관리
 
 
   <br/>
@@ -54,7 +54,7 @@
   
 ## 📫 Contact
 - ✉️ Email: elcane2@naver.com  
-- 📝 Portfolio: [Notion 링크](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
+- 📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
   
 </div>
 
