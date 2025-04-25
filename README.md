@@ -39,7 +39,13 @@
   
   <br/>
   <br/>
-  ## :office: 
+  ## :office: Work Experience
+  ### Teraon
+  #### Backend Developer
+  
+  ### LSware
+  #### Backend Developer
+
 
   <br/>
   <br/>
