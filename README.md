@@ -43,7 +43,8 @@
 
   <br/>
   <br/>
-## 📫 Contact
+  
+  ## 📫 Contact
   ✉️ Email: elcane2@naver.com  
   📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
   
