@@ -16,11 +16,12 @@
   <br/>
   
   ## 🧱 Tech Stack
+  <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C++-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   
   ### Library
   <!--PyTorch-->
