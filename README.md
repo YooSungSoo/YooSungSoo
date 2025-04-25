@@ -7,14 +7,12 @@
 
 <div>
   <!--Body-->
-  
   ## 👀 About Me
   #### :raising_hand: I am a Software Engineer from South Korea.<br/>
   #### :fire: I aim to become a Backend Developer.<br/>
   #### :mortar_board: Bachelor of Software, Ajou University
   <br/>
   <br/>
-  
   ## 🧱 Tech Stack
   ### Languages  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -31,9 +29,7 @@
   ### Tools  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-
-  
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
   <br/>
   <br/>
   
@@ -43,11 +39,8 @@
 
   #### LSware | Backend Developer (2023 06 - 2022 09)
 
-
-
   <br/>
   <br/>
-  
 ## 📫 Contact
   ✉️ Email: elcane2@naver.com  
   📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
