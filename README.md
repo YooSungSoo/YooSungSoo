@@ -40,7 +40,7 @@
   
   #### Teraon | Backend Developer (2022 06 - 2022 09)
 
-  #### LSware | Backend Developer (2023 06 - 2022 09)
+  #### LSware | Backend Developer (2023 06 - 2023 09)
 
   <br/>
   <br/>
