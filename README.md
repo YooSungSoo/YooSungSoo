@@ -7,12 +7,14 @@
 
 <div>
   <!--Body-->
+  
   ## 👀 About Me
   #### :raising_hand: I am a Software Engineer from South Korea.<br/>
   #### :fire: I aim to become a Backend Developer.<br/>
   #### :mortar_board: Bachelor of Software, Ajou University
   <br/>
   <br/>
+  
   ## 🧱 Tech Stack
   ### Languages  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
