@@ -48,6 +48,11 @@
   ## 📫 Contact
   ✉️ Email: elcane2@naver.com  
   📝 Portfolio: [Notion Link](https://rightful-sardine-264.notion.site/Portpolio_Soo-17a99ecbdd6880adaad2f4f89487d87e?pvs=4)
+
+  <br/>
+  <br/>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elcane2)](https://solved.ac/elcane2/)
   
 </div>
 
