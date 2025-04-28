@@ -2,7 +2,7 @@
   
   <!--Header-->
  ### ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-   <img src="https://github.com/YooSungSoo/YooSungSoo/blob/output/github-contribution-grid-snake.svg"/>
+
   
 </div>
 
@@ -54,6 +54,7 @@
   <br/>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elcane2)](https://solved.ac/elcane2/)
+     <img src="https://github.com/YooSungSoo/YooSungSoo/blob/output/github-contribution-grid-snake.svg"/>
   
 </div>
 
