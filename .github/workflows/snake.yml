@@ -23,7 +23,7 @@ jobs:
     steps:
       # generates a snake game from a github user (<YooSungSoo>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v4
         with:
           github_user_name: YooSungSoo
           outputs: |
@@ -37,5 +37,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          repo: YooSungSoo/YooSungSoo
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
