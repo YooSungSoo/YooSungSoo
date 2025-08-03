@@ -57,7 +57,5 @@
   <br/>
   <br/>
 
-  
-  <img src="https://github.com/YooSungSoo/YooSungSoo/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
