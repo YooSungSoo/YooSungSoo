@@ -7,8 +7,6 @@
 
 <div>
   <!--Body-->
-
-
   
   ## 👀 About Me
   #### :raising_hand: I am a Software Engineer from South Korea.<br/>
