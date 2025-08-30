@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Software Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Backend Developer.<br/>
+  #### :fire: I aim to become a Server Developer.<br/>
   #### :mortar_board: Bachelor of Software, Ajou University
   <br/>
   <br/>
