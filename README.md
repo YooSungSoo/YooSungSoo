@@ -39,10 +39,11 @@
   <br/>
   
   ## 🏢 Internship
+
+  #### LSware | BE Developer (2023 06 - 2023 09)
   
   #### Teraon | BE Developer (2022 06 - 2022 09)
 
-  #### LSware | BE Developer (2023 06 - 2023 09)
   <br/>
   <br/>
   
