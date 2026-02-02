@@ -32,6 +32,7 @@
   ### DevOps  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-#D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   
   <br/>
   <br/>
