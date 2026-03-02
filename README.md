@@ -41,7 +41,7 @@
   
   ## 🏢 Internship
 
-  #### Krafton | Software Engineer ( 2026 01 - ing )
+  #### Krafton | AI Game Software Engineer ( 2026 01 - ing )
 
   #### LSware | BE Developer ( 2023 06 - 2023 09 )
   
