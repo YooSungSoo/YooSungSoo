@@ -41,7 +41,7 @@
   
   ## 🏢 Internship
 
-  #### Krafton | AI Game Software Engineer ( 2026 01 - ing )
+  #### Krafton | AI Software Engineer ( 2026 01 - ing )
 
   #### LSware | BE Developer ( 2023 06 - 2023 09 )
   
@@ -54,6 +54,8 @@
   ✉️ Email: elcane2@naver.com  
   
   🥔 Tech Blog : [Velog Link](https://velog.io/@elcane2/series)
+
+  LinkedIn : www.linkedin.com/in/sungsoo-yoo-80a18a385
 
   <br/>
   <br/>
