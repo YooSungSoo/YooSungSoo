@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Developer from South Korea.<br/>
-  #### :fire: I aim to become a Software Engineer.<br/>
+  #### :raising_hand: I am a Software Engineer from South Korea.<br/>
+  #### :fire: I aim to become a AI Software Engineer.<br/>
   #### :mortar_board: Bachelor of Software, Ajou University
   <br/>
   <br/>
@@ -43,9 +43,7 @@
 
   #### Krafton | AI Software Engineer ( 2026 01 - ing )
 
-  #### LSware | BE Developer ( 2023 06 - 2023 09 )
-  
-  #### Teraon | BE Developer ( 2022 06 - 2022 09 )
+  #### LSware | Software Engineer ( 2023 06 - 2023 09 )
 
   <br/>
   <br/>
