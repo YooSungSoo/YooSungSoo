@@ -64,7 +64,6 @@
   - SQLD — Korea Data Agency (2025.06)
 
   <br/>
-  <br/>
 
   ## 📫 Contact
   ✉️ Email: elcane2@naver.com
