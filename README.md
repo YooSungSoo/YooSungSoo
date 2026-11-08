@@ -13,7 +13,6 @@
   #### :rocket: Platform Engineering — Backend · Cloud Infrastructure · ML Serving<br/>
   #### :mortar_board: B.S. in Software, Ajou University (2018 – 2025)<br/>
   <br/>
-  <br/>
 
   ## 🧱 Tech Stack
   ### Languages
@@ -42,7 +41,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
   <br/>
-  <br/>
 
   ## 🏢 Experience
 
@@ -60,7 +58,6 @@
   - Server Security Solution Development Group
 
   <br/>
-  <br/>
 
   ## 📜 Certifications
   - AWS Certified Solutions Architect – Associate (2026.09)
@@ -76,7 +73,6 @@
 
   💼 LinkedIn : [linkedin.com/in/sungsoo-yoo-80a18a385](https://www.linkedin.com/in/sungsoo-yoo-80a18a385)
 
-  <br/>
   <br/>
 
 </div>
